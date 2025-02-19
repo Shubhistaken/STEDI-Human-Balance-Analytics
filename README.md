@@ -89,5 +89,5 @@ See the `screenshots/` folder for query results.
 - Use **AWS SageMaker** for model training and inference.
 
 ## Author
-Your Name - [LinkedIn Profile](#)
+Shubham Pandey - https://github.com/Shubhistaken
 
