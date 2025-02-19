@@ -83,11 +83,6 @@ STEDI-Human-Balance-Analytics/
 ## Screenshots
 See the `screenshots/` folder for query results.
 
-## Future Improvements
-- Implement real-time streaming with AWS Kinesis.
-- Add more data sources for enhanced model training.
-- Use **AWS SageMaker** for model training and inference.
-
 ## Author
 Shubham Pandey - https://github.com/Shubhistaken
 
